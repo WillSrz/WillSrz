@@ -18,5 +18,4 @@ hi, im William 🔮.
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-------
-Last Edited on: 03/09/2021
+
