@@ -10,6 +10,7 @@ hi, im William 🔮.
 # 📖 reverse engineering, computer science
 ```
 <div align="center">
+  <img src="https://lottie.host/f2f8b608-17f1-41f2-89a1-259c8b8e1b7c/52w3RUBcWS.lottie" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
