@@ -23,4 +23,5 @@ hi, im William 🔮.
  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-
+<script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.11/dist/dotlottie-wc.js" type="module"></script>
+<dotlottie-wc src="https://lottie.host/f2f8b608-17f1-41f2-89a1-259c8b8e1b7c/52w3RUBcWS.lottie" style="width: 300px;height: 300px" autoplay loop></dotlottie-wc>
