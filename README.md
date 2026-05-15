@@ -1,27 +1,23 @@
-<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=220&section=header&text=William%20Sep&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Analyst%20%7C%20Full%20Stack%20Developer%20%7C%20ERP%20Integrations&descAlignY=58&descSize=18"/>
 
-```diff
-hi, im William 🔮.
-
-@@amateur programming.@@
-+ living in Tactic Guatemala.
-- 25 years old
-! program engineer, web developer and shitposter amateur
-# 📖 reverse engineering, computer science
-```
 <div align="center">
-  <img src="vs.png" alt="icon" width="38" height="38" />
-  <img src="git.png" alt="icon" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
-  <img src="bi.png" alt="icon" width="65" height="65" />
- <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+
+# Hey, I'm William Sep 🔮
+
+### Systems Analyst · Full Stack Developer · Business Automation Builder
+
+I'm a developer from **Tactic, Guatemala 🇬🇹**, focused on building real-world systems for businesses:  
+ERP integrations, REST APIs, dashboards, automation tools, and internal platforms that actually run in production.
+
 </div>
 
+---
+
+## 🧠 About Me
+
+```diff
++ Building business systems, APIs and automation tools.
++ Passionate about software engineering, databases and reverse engineering.
++ Working with real production environments, ERP systems and BI dashboards.
+! Always learning, breaking things, fixing them, and making them better.
+# Guatemala based developer.
