@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hey, I'm William Sep 🔮
+# Hey, I'm William Sep 🍎
 
 ### Systems Analyst · Full Stack Developer · Business Automation Builder
 
