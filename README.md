@@ -6,7 +6,7 @@
 
 ### Systems Analyst · Full Stack Developer · Business Automation Builder
 
-I'm a developer from **Tactic, Guatemala 🇬🇹**, focused on building real-world systems for businesses:  
+I'm a developer from **Guatemala 🇬🇹**, focused on building real-world systems for businesses:  
 ERP integrations, REST APIs, dashboards, automation tools, and internal platforms that actually run in production.
 
 </div>
